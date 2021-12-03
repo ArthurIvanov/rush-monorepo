@@ -1,0 +1,17 @@
+{
+  "name": "my-controls-test-package-for-rush-js-monorepo",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "my-controls-test-package-for-rush-js-monorepo_v1.0.1",
+      "date": "Fri, 03 Dec 2021 09:24:04 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "git add ."
+          }
+        ]
+      }
+    }
+  ]
+}
