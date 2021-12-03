@@ -1,5 +1,5 @@
 {
-  "name": "my-toolchain",
+  "name": "my-toolchain-test-package-for-rush-js-monorepo",
   "version": "1.0.0",
   "description": "An example toolchain used to build projects in this repo",
   "license": "MIT",

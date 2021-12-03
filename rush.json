@@ -447,14 +447,14 @@
     // },
     // 
      {
-       "packageName": "my-controls",
+       "packageName": "my-controls-test-package-for-rush-js-monorepo",
        "projectFolder": "libraries/my-controls",
        "reviewCategory": "production",
        "shouldPublish": true
      },
 
      {
-       "packageName": "my-toolchain",
+       "packageName": "my-toolchain-test-package-for-rush-js-monorepo",
        "projectFolder": "tools/my-toolchain",
        "reviewCategory": "tools",
        "shouldPublish": true

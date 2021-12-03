@@ -1,6 +1,6 @@
 
 export class MyClass {
   public doSomething(): void {
-    console.log('Hello, worlds!');
+    console.log('Hello, universe!');
   }
 }
